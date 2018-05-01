@@ -1,0 +1,14 @@
+#floatImage {
+    float: left;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p {
+    line-height: 30px;
+    margin-bottom: 30px;
+}
